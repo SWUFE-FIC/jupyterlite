@@ -11,6 +11,7 @@
     1. 登陆github，从本仓库模板创立自有课程仓库
     2. 修改本仓库模版的说明文档，以匹配教师的课程说明
     2. 修改data和课程内容的jupyter notebook文档
+    4. 确保你的github page是处于打开状态
     4. 当提交修改到github后，github会自动执行操作，将你的课程内容进行自动转换
     5. 访问你的github pages，将页面URL转发给学生上课使用
 
